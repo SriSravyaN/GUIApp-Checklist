@@ -1,27 +1,28 @@
 # GUIApp-Checklist
 This GUI Application is build with python tkinter!
 
-#Files convention
+<h2>Files convention</h2>
 
--keep.py is the actual code file
--keep.exe is the actual application file
--check1.ico is the icon of the desktop icon
+* keep.py is the actual code file
+* keep.exe is the actual application file
+* check1.ico is the icon of the desktop icon
 
-#How to run
+<h2>How to run</h2>
 
-Download all the files and then click on the keep.exe file(Application) and it works.
+* Download all the files and then click on the keep.exe file(Application) and it works.
 
-Before that, Python(3+) should be installed.
+* Before that, Python(3+) should be installed.
 
-You can also add the shortcut to your Desktop for ease.
+* You can also add the shortcut to your Desktop for ease.
 
-#Code
+<h2>Code</h2>
 
--Code is clean(kept it clean to possible extent)
--Comments added for every block.
+* Code is clean(kept it clean to possible extent)
+* Comments added for every block.
 
-#Queries
--For any queries,Can reach out
+<h2>Queries</h2>
 
-#Commits,issues or pullrequests
--Are always welcome :)
+* For any queries,Can reach out
+
+<h2>Commits,issues or pullrequests</h2>
+* Are always welcome :)
