@@ -1,7 +1,7 @@
 # GUIApp-Checklist
 This GUI Application is build with python tkinter!
 
-##Files convention
+#Files convention
 
 -keep.py is the actual code file
 -keep.exe is the actual application file
